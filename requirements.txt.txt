@@ -1,0 +1,6 @@
+flask
+openai
+gunicorn
+pandas
+openpyxl
+markdown2   # 用于将 Markdown 转为 HTML（可选提升）
